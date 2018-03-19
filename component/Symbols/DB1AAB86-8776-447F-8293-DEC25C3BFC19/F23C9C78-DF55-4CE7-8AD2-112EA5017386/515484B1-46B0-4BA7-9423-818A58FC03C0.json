@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "515484B1-46B0-4BA7-9423-818A58FC03C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 157,
+    "x": 0,
+    "y": 69
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Help text",
+  "nameIsFixed": true,
+  "originalObjectID": "A2465D66-8C09-4306-921F-60815030C6CF",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E528BB1-DFAD-47C5-86B0-224AB28FFF64_stringValue",
+      "value": "Help text"
+    }
+  ],
+  "overrides": {
+    "1E528BB1-DFAD-47C5-86B0-224AB28FFF64": "Help text"
+  },
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8B4B547D-4267-44FE-BD62-6D2B0E254149",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
