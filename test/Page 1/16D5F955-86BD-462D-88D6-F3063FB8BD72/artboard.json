@@ -40,15 +40,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "25276E9E-3CBC-4FB4-83FE-547652FF8CC5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "16C1D3F0-A815-4CD2-B276-1FFC17644B0E"
     }
   ],
   "name": "Artboard",
